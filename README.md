@@ -16,7 +16,7 @@ Picture Credit :
  
  img6:http://zh.wikipedia.org/wiki/%E7%89%9B%E9%9B%9C
  
-GAME RULES:
+##GAME RULES:
  
 A simple memory game using Processing. 
 
